@@ -12,7 +12,8 @@ Golden section method for determining x that minimizes the user
 supplied scalar function f(x).
 The minimum must be bracketed in (a,b).
 
-Extracted from "Numerical Methods with Python"
+Extracted from "Numerical Methods in Engineering with Python",
+de Jaan  Kiusalaas (2005) Cambridge University Press
 
 @author: Bruno M. Breggia
 """

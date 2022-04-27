@@ -10,7 +10,8 @@ h = initial search increment used in 'bracket'
 xMin = minimum point
 nCyc = number of cycles
 
-Extracted from "Numerical Methods with Python"
+Extracted from "Numerical Methods in Engineering with Python",
+de Jaan  Kiusalaas (2005) Cambridge University Press
 
 @author: Bruno M. Breggia
 """
