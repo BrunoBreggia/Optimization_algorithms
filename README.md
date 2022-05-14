@@ -25,4 +25,3 @@ derivatives are taken.
 The method minimises the function by a bi-directional search along each search vector, in turn. 
 The bi-directional line search along each search vector can be done by Golden-section search or 
 Brent's method.
-$\{ x_0 \}$
